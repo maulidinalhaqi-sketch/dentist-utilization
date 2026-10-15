@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dentist Utilization</title>
+</head>
+<body>
+  <h1>Dentist Utilization</h1>
+  <p>Dashboard sedang disiapkan.</p>
+  <p>
+    <a href="./Main.dc.html">Buka halaman dashboard</a>
+  </p>
+</body>
+</html>
